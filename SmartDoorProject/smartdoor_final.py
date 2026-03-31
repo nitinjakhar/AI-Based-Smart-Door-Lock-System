@@ -11,8 +11,8 @@ from telegram.ext import Updater, CallbackQueryHandler
 
 # ================= SETTINGS =================
 
-TELEGRAM_TOKEN = "8750881311:AAEr_IbOZuPyatot28t7c1R9FT_ZAcbEjyY"
-CHAT_ID = "5437471744"
+TELEGRAM_TOKEN = "your token"
+CHAT_ID = "chatid"
 
 ESP32_IP = "http://10.199.43.169"
 COM_PORT = "COM6"
